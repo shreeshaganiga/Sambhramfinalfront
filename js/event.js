@@ -323,7 +323,7 @@ $(".button-solidC1").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">BYTE HARMONY</p><p>[MCA]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 150/-</p><p id="location">Location: </p><p>Student Coordinator:<br>Mr. Harshith Nair (+91 8951533586)</p><p id="rules">Rules: <br />One team comprising two members. Event consist of three rounds.No gadgets are allowed. C,C++,JAVA Languages can be used.    </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">BYTE HARMONY</p><p>[MCA]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 150/-</p><p id="location">Location:PG Block Lab1 </p><p id="time">Timing: 11:00 AM -- 12:30 PM</p><p>Student Coordinator:<br>Mr. Harshith Nair (+91 8951533586)</p><p id="rules">Rules: <br />One team comprising two members. Event consist of three rounds.No gadgets are allowed. C,C++,JAVA Languages can be used.    </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -335,7 +335,7 @@ $(".button-solidC2").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">WEB WEAVE</p><p>[MCA]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 150/-</p><p id="location">Location: SDIT Building 2</p><p>Student Coordinator:<br>Mr. Sanjay (+91 7899665791)</p><p id="rules">Rules: <br /> 2 members in a team. Event consist of two rounds.Language: HTML, CSS, JavaScript.No Gadgets are allowed. </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">WEB WEAVE</p><p>[MCA]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 150/-</p><p id="location">Location: PG Block Lab2</p><p id="time">Timing: 11:00 AM -- 1:00 PM</p><p>Student Coordinator:<br>Mr. Sanjay (+91 7899665791)</p><p id="rules">Rules: <br /> 2 members in a team. Event consist of two rounds.Language: HTML, CSS, JavaScript.No Gadgets are allowed. </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -347,7 +347,7 @@ $(".button-solidC3").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">BATTLE CON</p><p>[MCA]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 150/-</p><p id="location">Location: </p><p>Student Coordinator:<br>Mr. Anish Kumar (+91 7907393481)</p><p id="rules">Rules: <br />Four makes a team.Bring your own phone and earphones.No tablets allowed.                </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">BATTLE CON</p><p>[MCA]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 150/-</p><p id="location">Location: PG Block Class (303)</p><p id="time">Timing: 11:00 AM -- 2:00 PM</p><p>Student Coordinator:<br>Mr. Anish Kumar (+91 7907393481)</p><p id="rules">Rules: <br />Four makes a team.Bring your own phone and earphones.No tablets allowed.                </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -359,7 +359,7 @@ $(".button-solidC4").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">IT MAESTRO</p><p>[MBA]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 150/-</p><p id="location">Location: SDIT Building 2</p><p>Student Coordinator:<br>Mr. Rijesh (+91 7483290526)</p><p id="rules">Rules: <br />Rules and Round details will be given on the spot.The Contestant must carry a laptop.             </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">IT MAESTRO</p><p>[MBA]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 150/-</p><p id="location">Location: PG Block Class (204)</p><p id="time">Timing: 11:00 AM -- 1:00 PM</p><p>Student Coordinator:<br>Mr. Rijesh (+91 7483290526)</p><p id="rules">Rules: <br />Rules and Round details will be given on the spot.The Contestant must carry a laptop.             </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -371,7 +371,7 @@ $(".button-solidC5").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">MIND MAZE</p><p>[MCA]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 150/-</p><p id="location">Location: SDIT Building 2</p><p>Student Coordinator:<br>Mr. Saqib UR Rehaman (+91 7483290526)</p><p id="rules">Rules: <br /> Two makes a team.No conferring will be allowed between teams during the Quiz. No Gadgets allowed                 </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">MIND MAZE</p><p>[MCA]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 150/-</p><p id="location">Location:  PG Block Class (301)</p><p id="time">Timing: 11:00 AM -- 12:00 PM</p><p>Student Coordinator:<br>Mr. Saqib UR Rehaman (+91 7483290526)</p><p id="rules">Rules: <br /> Two makes a team.No conferring will be allowed between teams during the Quiz. No Gadgets allowed                 </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -383,7 +383,7 @@ $(".button-solidC6").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">TECHSPHERE SUMMIT</p><p>[MCA]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 150/-</p><p id="location">Location: SDIT Building 2</p><p>Student Coordinator:<br>Ms. Shrajana A (+91 6360305098)</p><p id="rules">Rules: <br />Event consist of two rounds.Rules and Round details will be given on spot.No electronic gadgets are allowed.               </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">TECHSPHERE SUMMIT</p><p>[MCA]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 150/-</p><p id="location">Location: PG Block Class (203)</p><p id="time">Timing: 11:00 AM -- 1:00 PM</p><p>Student Coordinator:<br>Ms. Shrajana A (+91 6360305098)</p><p id="rules">Rules: <br />Event consist of two rounds.Rules and Round details will be given on spot.No electronic gadgets are allowed.               </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -625,7 +625,7 @@ $(".button-solidC7").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">PIXELVOYAGE</p><p>[MCA]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 150/-</p><p id="location">Location:New Building</p<p id="time">Timing: 9:30 AM -- 11:30 AM</p>><p>Student Coordinator:<br>Mr. Kiran D C (+91 8317476374)</p><p id="rules">Rules: <br />Round details will be given on the spot.Participants should get their own gadgets.  </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">PIXELVOYAGE</p><p>[MCA]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 150/-</p><p id="location">Location:PG Block Class (202)</p<p id="time">Timing: 11:00 AM -- 3:00 AM</p>><p>Student Coordinator:<br>Mr. Kiran D C (+91 8317476374)</p><p id="rules">Rules: <br />Round details will be given on the spot.Participants should get their own gadgets.  </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -636,7 +636,7 @@ $(".button-solidC8").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">SHUTTER SAGA</p><p>[MCA]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 150/-</p><p id="location">Location: New Building</p><p id="time">Timing: 9:30 AM -- 11:30 AM</p><p>Student Coordinator:<br>Mr. Akash (+916362160700)</p><p id="rules">Rules: <br />Round details will be given on the spot. Participants should get their own gadgets.  </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">SHUTTER SAGA</p><p>[MCA]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 150/-</p><p id="location">Location: PG Block Class (201)</p><p id="time">Timing: 11:00 AM -- 3:00 AM</p><p>Student Coordinator:<br>Mr. Akash (+916362160700)</p><p id="rules">Rules: <br />Round details will be given on the spot. Participants should get their own gadgets.  </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
