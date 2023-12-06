@@ -479,7 +479,7 @@ $(".button-solid28").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName"></p>REELCAP<p>[ONE MINUTE MOVIE MAKING]</p><p id="date">Date: Day 2</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: ROOM NO 203</p><p id="time">Timing: 11:00 AM</p><p>Student Coordinator:<br>Ms.  AMRUTHA K M (+91 7760024011)</p><p id="rules">Rules: <br /> Theme will be given on the spot.Reel video should not exceed 60 seconds. Reel must be an original creation.</p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">REELCAP</p><p>[ONE MINUTE MOVIE MAKING]</p><p id="date">Date: Day 2</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: ROOM NO 203</p><p id="time">Timing: 11:00 AM</p><p>Student Coordinator:<br>Ms.  AMRUTHA K M (+91 7760024011)</p><p id="rules">Rules: <br /> Theme will be given on the spot.Reel video should not exceed 60 seconds. Reel must be an original creation. The reel must be an original creation. Any offensive,name-calling, decoratory remarks,or regional slang towards any person or community should not be used</p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
