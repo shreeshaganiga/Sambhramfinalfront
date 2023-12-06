@@ -311,7 +311,7 @@ $(".button-solidM7").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">SPARK TANK</p><p>[Committee]</p><p id="date">Date: Day 1 & 2 </p><p id="fee">Entry Fee: Rs 200/-</p><p id="location">Location: Seminar Hall(New Building)</p><p id="time">Timing: 11:00 AM -- 5:00 PM</p><p>Student Coordinator:<br>Mr. NIKHIL K S (+91 7306670255)</p><p id="rules">Rules: <br />Three (3) make a team.    Event will consist of 3 rounds.   Each round will be time-bound.   Participants should be ready to pitch their business idea for the first round. Any number of participants from a college can participate in the event. Participants should carry laptops, net setters, pen drives etc for their use. The organisers shall not be responsible for providing any of the necessary items.Judges and the organiser’s decision will be final and binding. Any team found using unfair means shall be immediately disqualified.To keep your identity confidential, participants are supposed to use the team’s name. </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">SPARK TANK</p><p>[MBA]</p><p id="date">Date: Day 1 & 2 </p><p id="fee">Entry Fee: Rs 200/-</p><p id="location">Location: Seminar Hall(New Building)</p><p id="time">Timing: 11:00 AM -- 5:00 PM</p><p>Student Coordinator:<br>Mr. NIKHIL K S (+91 7306670255)</p><p id="rules">Rules: <br />Three (3) make a team.    Event will consist of 3 rounds.   Each round will be time-bound.   Participants should be ready to pitch their business idea for the first round. Any number of participants from a college can participate in the event. Participants should carry laptops, net setters, pen drives etc for their use. The organisers shall not be responsible for providing any of the necessary items.Judges and the organiser’s decision will be final and binding. Any team found using unfair means shall be immediately disqualified.To keep your identity confidential, participants are supposed to use the team’s name. </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -359,7 +359,7 @@ $(".button-solidC4").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">IT MAESTRO</p><p>[MBA]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 150/-</p><p id="location">Location: PG Block Class (204)</p><p id="time">Timing: 11:00 AM -- 1:00 PM</p><p>Student Coordinator:<br>Mr. Rijesh (+91 7483290526)</p><p id="rules">Rules: <br />Rules and Round details will be given on the spot.The Contestant must carry a laptop.             </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">IT MAESTRO</p><p>[MCA]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 150/-</p><p id="location">Location: PG Block Class (204)</p><p id="time">Timing: 11:00 AM -- 1:00 PM</p><p>Student Coordinator:<br>Mr. Rijesh (+91 9353248620)</p><p id="rules">Rules: <br />Rules and Round details will be given on the spot.The Contestant must carry a laptop.             </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
