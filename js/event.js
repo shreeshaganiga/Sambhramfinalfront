@@ -547,7 +547,7 @@ $(".button-solid34").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">KAHAANI</p><p>[MOVIE MAKING]</p><p id="date">Date: Day 2</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: ROOM NO 303</p><p id="time">Timing: 9:30 AM </p><p>Student Coordinator:<br>Ms. SHREYA B (+91 7259039098)</p><p id="rules">Rules: <br />Three make a team.Topic will be given on the spot.Duration of the movie should not exceed 5 minutes.</p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">KAHAANI</p><p>[MOVIE MAKING]</p><p id="date">Date: Day 2</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: ROOM NO 303</p><p id="time">Timing: 9:30 AM </p><p>Student Coordinator:<br>Ms. SHREYA B (+91 7259039098)</p><p id="rules">Rules: <br />Three make a team. The topic will be given on the spot. The duration of the movie should not exceed 5 minutes.</p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -558,7 +558,7 @@ $(".button-solid35").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">FUN ZONE</p><p>[SPOT GAME]</p><p id="date">Date: Day 2</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: NEAR FOOD STALLS. </p><p id="time">Timing: 11:30 AM</p><p>Student Coordinator:<br>Mr. DANISH [+91 9945074687]</p><p id="rules">Rules: <br />  Multiple games will be played on the spot.Games will be decided by the coordinator depending on the total number of  participants. Every round will have a winner and a prize will be given on the spot.Entry fee ₹30 per game. </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">FUN ZONE</p><p>[SPOT GAME]</p><p id="date">Date: Day 2</p><p id="fee">Entry Fee: Rs 100/-</p><p id="location">Location: NEAR FOOD STALLS. </p><p id="time">Timing: 11:30 AM</p><p>Student Coordinator:<br>Mr. DANISH [+91 9945074687]</p><p id="rules">Rules: <br />Individual Participant. <br/>Consists of 2 rounds. <br/> Round 1: 5 games will be displayed out of which 3 games have to be selected and played.<br/>Round 2:Final Round(Max 20 players will be qualified).<br/>Organizers will inform about the type of game and its methods to play at the time of competition.< br/>Organizers are free to make changes which will be informed before the competition.   </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
