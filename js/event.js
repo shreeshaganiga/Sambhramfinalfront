@@ -536,7 +536,7 @@ $(".button-solid33").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">OTAKU NERD</p><p>[ANIME QUIZ]</p><p id="date">Date: Day 2</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: ROOM NO 202</p><p id="time">Timing: 10:30 AM -- 11:30 AM</p><p>Student Coordinator:<br>Mr. EVIN (+91 7619529314)</p><p id="rules">Rules: <br /> Groups will be made depending on the total number of participants (not limited to the institute).The top performing participants of each group will move forward for round 2.The top 3 performers of round 2 will be considered as winners. </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">OTAKU NERD</p><p>[ANIME QUIZ]</p><p id="date">Date: Day 2</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: ROOM NO 202</p><p id="time">Timing: 10:30 AM -- 11:30 AM</p><p>Student Coordinator:<br>Mr. EVIN (+91 7619529314)</p><p id="rules">Rules: <br />Round 1: Participants will be divided into teams.<br/> The top 3 performing teams of each group will move forward for Round 2.<br/> The top 2 performers of round 2 will be considered as winners.<br/> Round 3: A member must be selected from each team by the team members to represent them. <br/>The winner will be decided based on having the most points. <br/>No extra time will be provided to any participant under any circumstances. <br/>Mobile phones are necessary for the event </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
