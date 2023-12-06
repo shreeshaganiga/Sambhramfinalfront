@@ -2,7 +2,7 @@ $(".button-solid").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">DEBUG THE CODE</p><p>[CSE & ISE]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location:203(2nd Floor - Canteen Building) </p><p id="time">Timing: 10:00 AM -- 12:00 PM</p><p>Student Coordinator:<br>Mr. Rakshit (+91 9819376046)</p><p id="rules">Rules: <br />Team size- 1 Participant. Any type of electrical components and engines are prohibited.Source code for the program will be given, along with expected results. Bonus points for early submission.</p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">DEBUG THE CODE</p><p>[CSE & ISE]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location:1st Floor ISE Lab </p><p id="time">Timing: 10:00 AM -- 12:00 PM</p><p>Student Coordinator:<br>Mr. Rakshith (+91 9819376046)</p><p id="rules">Rules: <br />Team size- 1 Participant. Any type of electrical components and engines are prohibited.Source code for the program will be given, along with expected results. Bonus points for early submission.</p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -86,7 +86,7 @@ $(".button-solid7").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">CODE CRUSADE</p><p>[CSE &ISE]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: 201 (2nd Floor - Canteen Building)</p><p id="time">Timing: 2:30 PM -- 4:30 PM</p><p>Student Coordinator:<br>Mr. Siddharth (+91 9449051595)</p><p id="rules">Rules: <br />1 participant. Online Compilers are strictly prohibited, any participant found using the mentioned will be disqualified. The organizers reserve the right to change any or all of the above rules as they deem fit. Programming Languages Allowed:  C, C++, Java, and Python. </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">CODE CRUSADE</p><p>[CSE &ISE]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: CIM Lab (Basement)</p><p id="time">Timing: 2:30 PM -- 4:30 PM</p><p>Student Coordinator:<br>Mr. Siddharth (+91 9449051595)</p><p id="rules">Rules: <br />1 participant. Online Compilers are strictly prohibited, any participant found using the mentioned will be disqualified. The organizers reserve the right to change any or all of the above rules as they deem fit. Programming Languages Allowed:  C, C++, Java, and Python. </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -455,7 +455,7 @@ $(".button-solid26").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">WHIMSICAL FACES</p><p>[FACE PAINTING]</p><p id="date">Date: Day 2</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: GALLERY, NEAR PHYSICS LAB</p><p id="time">Timing: 9:30 AM -- 10:30 AM</p><p>Student Coordinator:<br>Ms. VAISHNAVI (+91 8073537838)</p><p id="rules">Rules: <br /> Self painting or one team comprising two members - One model and the other painter.All necessary materials for face painting should be brought by the participants.All participants should reach the venue at least 15 mins before the start of event.Topic will be revealed 15 mins before the event starts. </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">WHIMSICAL FACES</p><p>[FACE PAINTING]</p><p id="date">Date: Day 2</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: GALLERY, NEAR PHYSICS LAB</p><p id="time">Timing: 9:30 AM -- 10:30 AM</p><p>Student Coordinator:<br>Ms. VAISHNAVI (+91 8073537838)</p><p id="rules">Rules: <br /> Self painting or one team comprising two members - One model and the other painter.All necessary materials for face painting should be brought by the participants.All participants should reach the venue at least 15 mins before the start of event.Topic will be revealed 15 mins before the event starts.Stickers and Glitters should not be used. </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -592,7 +592,7 @@ $(".button-solidS2").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">CLASH</p><p>[VALORANT]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: 1st floor VLSI LAB</p><p id="time">Timing: 10:00 AM -- 12:30 PM</p><p>Student Coordinator:<br>Mr. ATHUL M (YEAR IV - CS) (7736770858)</p><p id="rules">Rules: <br /> No extra accessories like joystick or headset will be provided.The format will be knock-out.Participants should bring their own laptops.</p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">CLASH</p><p>[VALORANT]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: CAD LAB(Canteen - Building)</p><p id="time">Timing: 10:00 AM -- 4:00 PM</p><p>Student Coordinator:<br>Mr. ATHUL M (YEAR IV - CS) (7736770858)</p><p id="rules">Rules: <br /> .The format will be knock-out. No peripherals will be provided. Participants should bring their own laptops.</p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
