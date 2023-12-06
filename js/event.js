@@ -395,7 +395,7 @@ $(".button-solid21").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">THESPIANISM</p><p>[DUMB CHARADES]</p><p id="date">Date: Day 2</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: 103 (Canteen Building)</p><p id="time">Timing: 11:30 AM -- 12:30 PM</p><p>Student Coordinator:<br>Ms. LEELAVATHI (+91 8746840410)</p><p id="rules">Rules: <br />3(three) Make a team. 4 rounds will be conducted.  No lip movement, no subjects, and no alphabet indication.</p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">THESPIANISM</p><p>[DUMB CHARADES]</p><p id="date">Date: Day 2</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: 103 (Canteen Building)</p><p id="time">Timing: 11:30 AM -- 12:30 PM</p><p>Student Coordinator:<br>Ms. ZUHA SHA (+91 9448653462)</p><p id="rules">Rules: <br />3(three) Make a team. 4 rounds will be conducted.  No lip movement, no subjects, and no alphabet indication.</p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
