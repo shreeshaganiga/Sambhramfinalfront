@@ -503,7 +503,7 @@ $(".button-solid30").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">GROUP DANCE</p><p></p><p id="date">Date: Day 2</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: AUDITORIUM</p><p id="time">Timing: 3:30 PM -- 4:30 PM</p><p>Student Coordinator:<br>Ms. NANCY LEEMA (+91 9353412116)</p><p id="rules">Rules: <br />6-12 make a team.Western, Eastern, Hip-hop form.Music should be submitted half an hour prior to the start of the event. </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">GROUP DANCE</p><p></p><p id="date">Date: Day 2</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: AUDITORIUM</p><p id="time">Timing: 3:30 PM -- 4:30 PM</p><p>Student Coordinator:<br>Ms. NANCY LEEMA (+91 9353412116)</p><p id="rules">Rules: <br />6-12 make a team.Western, Eastern, Hip-hop form. Time limit 4+1. Judges decision is final and binding. Music should be submitted half an hour prior to the start of the event. </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
