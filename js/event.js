@@ -419,7 +419,7 @@ $(".button-solid23").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">RANG FIESTA </p><p>[MBA]</p><p id="date">Date: Day 2</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: SDIT Building 2</p><p id="time">Timing: 9:30 AM -- 11:30 AM</p><p>Student Coordinator:<br>Ms. KRITHIKA (+91 7676609220)</p><p id="rules">Rules: <br /> Any number of participants from a college can participate in the events.The event is open to all students.The registration fee is ₹100/ head.                   </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">RANG FIESTA </p><p>[MBA]</p><p id="date">Date: Day 2</p><p id="fee">Entry Fee: Rs 100/-</p><p id="location">Location: New Building 6th Floor</p><p id="time">Timing: 11:00 AM -- 1:00 PM</p><p>Student Coordinator:<br>Ms. KRITHIKA (+91 7676609220)</p><p id="rules">Rules: <br /> Any number of participants from a college can participate in the events.The event is open to all students.The registration fee is ₹100/ head.                   </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
