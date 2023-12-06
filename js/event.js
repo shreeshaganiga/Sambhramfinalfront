@@ -467,7 +467,7 @@ $(".button-solid27").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">FRAMES</p><p>[PHOTOGRAPHY]</p><p id="date">Date: Day 2</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location:  ROOM NO 201(New Building)</p><p id="time">Timing: 11:30 AM</p><p>Student Coordinator:<br>Mr. ROHIT M V (+91 7994111668) </p><p id="rules">Rules: <br />2 make a team. topics will be given on the spot.Caption must be given to each submission. All photos must be captured within the campus bounds. A total of 3 photos must be submitted by a single team.</p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">FRAMES</p><p>[PHOTOGRAPHY]</p><p id="date">Date: Day 2</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location:  ROOM NO 201(New Building)</p><p id="time">Timing: 11:30 AM</p><p>Student Coordinator:<br>Mr. ROHITH M V (+91 7994111668) </p><p id="rules">Rules: <br />2 make a team. topics will be given on the spot.Caption must be given to each submission. All photos must be captured within the campus bounds. A total of 3 photos must be submitted by a single team.</p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -491,7 +491,7 @@ $(".button-solid29").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">NRITHYANGANA</p><p>[SOLO DANCE]</p><p id="date">Date: Day 2</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: AUDITORIUM</p><p id="time">Timing: 11:00 AM -- 12:00 PM</p><p>Student Coordinator:<br>Ms. MANASA G RAI (+91 8867067435)</p><p id="rules">Rules: <br />Maximum 2 entries per college. Styles allowed: Classical, Semi, Folk, Western, Contemporary. Music should be submitted half an hour prior to the start of the event. </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">NRITHYANGANA</p><p>[SOLO DANCE]</p><p id="date">Date: Day 2</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: AUDITORIUM</p><p id="time">Timing: 11:00 AM -- 12:00 PM</p><p>Student Coordinator:<br>Ms. MANASA G RAI (+91 8867067435)</p><p id="rules">Rules: <br />Maximum 2 entries per college. Styles allowed: Classical, Semi, Folk, Western, Contemporary. Music should be submitted one hour prior to the start of the event. </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
