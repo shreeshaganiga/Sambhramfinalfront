@@ -547,7 +547,7 @@ $(".button-solid34").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">KAHAANI</p><p>[MOVIE MAKING]</p><p id="date">Date: Day 2</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: ROOM NO 303</p><p id="time">Timing: 9:30 AM </p><p>Student Coordinator:<br>Ms. SHREYA B (+91 7259039098)</p><p id="rules">Rules: <br />Three make a team. The topic will be given on the spot. The duration of the movie should not exceed 5 minutes.</p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">KAHAANI</p><p>[MOVIE MAKING]</p><p id="date">Date: Day 2</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: ROOM NO 303</p><p id="time">Timing: 9:30 AM </p><p>Student Coordinator:<br>Ms. SHREYA B (+91 7259039098)</p><p id="rules">Rules: <br />Three - five makes a team. The topic will be given on the spot. The duration of the movie should not exceed 5 minutes.</p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
