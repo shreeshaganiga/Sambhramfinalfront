@@ -14,7 +14,7 @@ $(".button-solid1").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">QUIZHOLIC</p><p>[CSE & ISE]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: 303(3rd Floor - Canteen Building) </p><p id="time">Timing: 10:00 AM -- 11:00 AM</p><p>Student Coordinator:<br>MS. MANASA RAI (+91 8867067435)</p><p id="rules">Rules: <br />Three make a Team. No gadgets and electronics allowed. Preliminary rounds and screenings will be implemented.</p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">QUIZOHOLIC</p><p>[CSE & ISE]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: 303(3rd Floor - Canteen Building) </p><p id="time">Timing: 10:00 AM -- 11:00 AM</p><p>Student Coordinator:<br>MS. MANASA RAI (+91 8867067435)</p><p id="rules">Rules: <br />Three make a Team. No gadgets and electronics allowed. Preliminary rounds and screenings will be implemented.</p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -263,7 +263,7 @@ $(".button-solidM3").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">TECH IGNITE </p><p>[M.B.A]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 200/-</p><p id="location">Location: 104(New Building)</p><p id="time">Timing: 11:00 AM -- 5:00 PM</p><p>Student Coordinator:<br>Ms. AFRAZ FATHIMA (+91 8050101620)</p><p id="rules">Rules: <br />Two members in a team.The event is open to PG students.Participants should carry laptops, net setters, pen drives etc. for their use. The organisers shall not be responsible for providing any of these items.The registration fee is ₹200/head.Any team found using means shall be immediately disqualified.To keep your identity confidential, participants are to use the team name allotted by the Echelon team.  </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">TECH IGNITE </p><p>[MBA]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 200/-</p><p id="location">Location: 104(New Building)</p><p id="time">Timing: 11:00 AM -- 5:00 PM</p><p>Student Coordinator:<br>Ms. AFRAZ FATHIMA (+91 8050101620)</p><p id="rules">Rules: <br />Two members in a team.The event is open to PG students.Participants should carry laptops, net setters, pen drives etc. for their use. The organisers shall not be responsible for providing any of these items.The registration fee is ₹200/head.Any team found using means shall be immediately disqualified.To keep your identity confidential, participants are to use the team name allotted by the Echelon team.  </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -503,7 +503,7 @@ $(".button-solid30").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">GROUP DANCE</p><p></p><p id="date">Date: Day 2</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: AUDITORIUM</p><p id="time">Timing: 3:30 PM -- 4:30 PM</p><p>Student Coordinator:<br>Ms. NANCY LEEMA (+91 9353412116)</p><p id="rules">Rules: <br />6-12 make a team.Western, Eastern, Hip-hop form. Time limit 4+1. Judges decision is final and binding. Music should be submitted half an hour prior to the start of the event. </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">FEET ON FIRE</p><p>GROUP DANCE</p><p id="date">Date: Day 2</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: AUDITORIUM</p><p id="time">Timing: 3:30 PM -- 4:30 PM</p><p>Student Coordinator:<br>Ms. NANCY LEEMA (+91 9353412116)</p><p id="rules">Rules: <br />6-12 make a team.Western, Eastern, Hip-hop form. Time limit 4+1. Judges decision is final and binding. Music should be submitted half an hour prior to the start of the event. </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -558,7 +558,7 @@ $(".button-solid35").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">FUN ZONE</p><p>[SPOT GAME]</p><p id="date">Date: Day 2</p><p id="fee">Entry Fee: Rs 100/-</p><p id="location">Location: NEAR FOOD STALLS. </p><p id="time">Timing: 11:30 AM</p><p>Student Coordinator:<br>Mr. DANISH [+91 9945074687]</p><p id="rules">Rules: <br />Individual Participant. <br/>Consists of 2 rounds. <br/> Round 1: 5 games will be displayed out of which 3 games have to be selected and played.<br/>Round 2:Final Round(Max 20 players will be qualified).<br/>Organizers will inform about the type of game and its methods to play at the time of competition.< br/>Organizers are free to make changes which will be informed before the competition.   </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">FUN ZONE</p><p>[SPOT GAMES]</p><p id="date">Date: Day 2</p><p id="fee">Entry Fee: Rs 100/-</p><p id="location">Location: NEAR FOOD STALLS. </p><p id="time">Timing: 11:30 AM</p><p>Student Coordinator:<br>Mr. DANISH [+91 9945074687]</p><p id="rules">Rules: <br />Individual Participant. <br/>Consists of 2 rounds. <br/> Round 1: 5 games will be displayed out of which 3 games have to be selected and played.<br/>Round 2:Final Round(Max 20 players will be qualified).<br/>Organizers will inform about the type of game and its methods to play at the time of competition.< br/>Organizers are free to make changes which will be informed before the competition.   </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -581,7 +581,7 @@ $(".button-solidS1").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">CYBER SCORE KICK</p><p>[E-FOOTBALL]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location:1st Floor VLSI Lab </p><p id="time">Timing: 10:00 AM </p><p>Student Coordinator:<br>Mr. ISHAN (+91 9353205876)</p><p id="rules">Rules: <br />Tournament will be in knockout mode.Only one game will be played against an opponent in a round (There will be no home and away matches).Players can decide who will create the match room.Participants must schedule the matches with their opponents only within the specified timeline.If any player is not ready for the match before the deadline, then the opposition will be deemed victorious.If both players fail to play their matches by the deadline, the match will be deemed null and void and none of them can qualify for next round.If a player leaves the game midway, then he will be disqualified. After every match, the player who won should send a screenshot to the group with the caption “won vs @mention (opposite player).             </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">CYBER SCORE KICK</p><p>[E-FOOTBALL]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 100/- Per Person</p><p id="location">Location:1st Floor VLSI Lab </p><p id="time">Timing: 10:00 AM </p><p>Student Coordinator:<br>Mr. ISHAN (+91 9353205876)</p><p id="rules">Rules: <br />Tournament will be in knockout mode.Only one game will be played against an opponent in a round (There will be no home and away matches).Players can decide who will create the match room.Participants must schedule the matches with their opponents only within the specified timeline.If any player is not ready for the match before the deadline, then the opposition will be deemed victorious.If both players fail to play their matches by the deadline, the match will be deemed null and void and none of them can qualify for next round.If a player leaves the game midway, then he will be disqualified. After every match, the player who won should send a screenshot to the group with the caption “won vs @mention (opposite player).             </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -592,7 +592,7 @@ $(".button-solidS2").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">CLASH</p><p>[VALORANT]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: CAD LAB(Canteen - Building)</p><p id="time">Timing: 10:00 AM -- 4:00 PM</p><p>Student Coordinator:<br>Mr. ATHUL M (YEAR IV - CS) (7736770858)</p><p id="rules">Rules: <br /> .The format will be knock-out. No peripherals will be provided. Participants should bring their own laptops.</p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">CLASH</p><p>[VALORANT]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 100/- Per Person</p><p id="location">Location: CAD LAB(Canteen - Building)</p><p id="time">Timing: 10:00 AM -- 4:00 PM</p><p>Student Coordinator:<br>Mr. ATHUL M (YEAR IV - CS) (7736770858)</p><p id="rules">Rules: <br /> .The format will be knock-out. No peripherals will be provided. Participants should bring their own laptops.</p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -614,7 +614,7 @@ $(".button-solidS4").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">BGMI</p><p></p><p id="date">Date: Day 2</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location:1st Floor ISE Lab </p><p id="time">Timing: 9:30 AM </p><p>Student Coordinator:<br>Mr. JEEVAN [7019264954]</p><p id="rules">Rules: <br />Players must download Erangel and Miramer maps.If any participant is found using hacks, the whole team will be subject to disqualification.Point system will be the same as official BGMI tournaments.Players using iPad not allowed and No switching teams.</p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">BGMI</p><p></p><p id="date">Date: Day 2</p><p id="fee">Entry Fee: Rs 100/- Per Person</p><p id="location">Location:1st Floor ISE Lab </p><p id="time">Timing: 9:30 AM </p><p>Student Coordinator:<br>Mr. JEEVAN [7019264954]</p><p id="rules">Rules: <br />Players must download Erangel and Miramer maps.If any participant is found using hacks, the whole team will be subject to disqualification.Point system will be the same as official BGMI tournaments.Players using iPad not allowed and No switching teams.</p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -625,7 +625,7 @@ $(".button-solidC7").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">PIXELVOYAGE</p><p>[MCA]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 150/-</p><p id="location">Location:PG Block Class (202)</p<p id="time">Timing: 11:00 AM -- 3:00 AM</p>><p>Student Coordinator:<br>Mr. Kiran D C (+91 8317476374)</p><p id="rules">Rules: <br />Round details will be given on the spot.Participants should get their own gadgets.  </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">PIXELVOYAGE</p><p>[MCA]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 100/- Per Person</p><p id="location">Location:PG Block Class (202)</p<p id="time">Timing: 11:00 AM -- 3:00 AM</p>><p>Student Coordinator:<br>Mr. Kiran D C (+91 8317476374)</p><p id="rules">Rules: <br />Round details will be given on the spot.Participants should get their own gadgets.  </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -636,7 +636,7 @@ $(".button-solidC8").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">SHUTTER SAGA</p><p>[MCA]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 150/-</p><p id="location">Location: PG Block Class (201)</p><p id="time">Timing: 11:00 AM -- 3:00 AM</p><p>Student Coordinator:<br>Mr. Akash (+916362160700)</p><p id="rules">Rules: <br />Round details will be given on the spot. Participants should get their own gadgets.  </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">SHUTTER SAGA</p><p>[MCA]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 100/- Per Person</p><p id="location">Location: PG Block Class (201)</p><p id="time">Timing: 11:00 AM -- 3:00 AM</p><p>Student Coordinator:<br>Mr. Akash (+916362160700)</p><p id="rules">Rules: <br />Round details will be given on the spot. Participants should get their own gadgets.  </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
